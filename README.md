@@ -201,7 +201,7 @@ Merge your pull request so the action will be a part of the `main` branch.
 <details id=5 open>
 <summary><h2>Step 5: Trigger the workflow</h2></summary>
 
-_You've now got a fully functioning workflow! :smile:_
+_You've now got a fully functioning workflow! :smile:_ :smile:_
 
 Your new action will run any time a new commit is created or pushed to the remote repository. Since you just created a commit, the workflow should have been triggered.
 
